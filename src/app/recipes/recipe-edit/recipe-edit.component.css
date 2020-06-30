@@ -1,4 +1,12 @@
 input.ng-invalid.ng-touched,
 textarea.ng-invalid.ng-touched {
-    border: 1px solid red;
+  border: 1px solid red;
+}
+
+.row:first-child {
+  margin-bottom: 20px;
+}
+
+.row:first-child button {
+  margin-right: 10px;
 }
